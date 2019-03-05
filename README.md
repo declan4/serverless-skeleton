@@ -1,4 +1,4 @@
-# Cyan Bear Serverless Skeleton
+# Serverless Skeleton
 
 Serverless skeleton
 
